@@ -4,9 +4,9 @@
 
 **Categorisation**: W0.0 S0.0
 
-**Reference(s)**: https://aclanthology.org/X00-0000/
-
 **Harm types**: Actor-Category
+
+**Reference(s)**: https://aclanthology.org/X00-0000/
 
 **Actions required for harm to present**: a b c
 
