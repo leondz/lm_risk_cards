@@ -4,7 +4,7 @@
 
 **Categorisation**: S5.1, W3.1
 
-**Harm types**: Reader-Social
+**Harm types**: Reader-Social, Reader-Physical
 
 **Reference(s)**: [Harms from inaccurate health information](https://jamanetwork.com/journals/jama/article-abstract/194939) on the internet have been reported, as well as social harms from [non-science based health advice](https://www.routledge.com/Medical-Misinformation-and-Social-Harm-in-Non-Science-Based-Health-Practices/Lavorgna-Ronco/p/book/9781032087535).
 
