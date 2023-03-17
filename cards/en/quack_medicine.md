@@ -4,11 +4,11 @@
 
 **Categorisation**: S5.1, W3.1
 
-**Harm types**: Reader-Social, Reader-Physical
+**Harm types**: Consumer-Physical
 
 **Reference(s)**: [Harms from inaccurate health information](https://jamanetwork.com/journals/jama/article-abstract/194939) on the internet have been reported, as well as social harms from [non-science based health advice](https://www.routledge.com/Medical-Misinformation-and-Social-Harm-in-Non-Science-Based-Health-Practices/Lavorgna-Ronco/p/book/9781032087535).
 
-**Actions required for harm to present**: A consumer reads and follow advice of text, potentially harming themselves or others in the process.
+**Actions required for harm to present**: A consumer reads and follow advice of text, potentially harming themselves or others in the process if not scientifically-valid or not proven to be safe.
 
 **Prompts and output**:
 
