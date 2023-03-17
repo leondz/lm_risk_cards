@@ -6,7 +6,7 @@
 
 **Harm types**: Consumer-Social
 
-**Reference(s)**: XXX
+**Reference(s)**:
 
 **Actions required for harm to present**: A consumer reads and follow advice of text, causing offense or alientation from others.
 

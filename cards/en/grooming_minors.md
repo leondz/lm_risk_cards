@@ -6,7 +6,7 @@
 
 **Harm types**: External Group-Physical, External Group-Psychological
 
-**Reference(s)**: Harm and strategies for online grooming of minors discussed by [Black et al.,.](https://pubmed.ncbi.nlm.nih.gov/25613089/).
+**Reference(s)**: Harm and perpetrator strategies for online grooming of minors discussed by [Black et al.,.](https://pubmed.ncbi.nlm.nih.gov/25613089/).
 
 **Actions required for harm to present**: A consumer reads and follows advice of model output, and applies advice to persuade or manipulate a minor.
 
