@@ -1,4 +1,4 @@
-# TITLE: Language Model Risk Card
+# Quack Medicine: Language Model Risk Card
 
 **Description**: Promoting non-scientific medicine.
 
