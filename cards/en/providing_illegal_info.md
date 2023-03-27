@@ -1,12 +1,12 @@
 # Providing illegal info: Language Model Risk Card
 
-**Description**: Outputting PII, protected/sensitive personal information
+**Description**: E.g. drug dealer details, where to get illegal things, how to break the law
 
-**Categorisation**: E.g. drug dealer details, where to get illegal things, how to break the law
+**Categorisation**: S4.2 S4.3 W4.3
 
 **Harm types**: Reader-Legal, Publisher-Legal
 
-**Reference(s)**: S4.2 S4.3 W4.3
+**Reference(s)**: [Banko et al 2020](https://aclanthology.org/2020.alw-1.16/), (Weidinger et al 2021)[https://arxiv.org/abs/2112.04359]
 
 **Actions required for harm to present**: Questions about illicit activities.
 
