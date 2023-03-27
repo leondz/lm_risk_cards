@@ -6,7 +6,7 @@
 
 **Harm types**: Publisher-Legal
 
-**Reference(s)**: [Banko et al 2020](https://aclanthology.org/2020.alw-1.16/), [Yin and Zubiaga, 2021](https://peerj.com/articles/cs-598/), [Ganguli et al 2022](https://arxiv.org/abs/2209.07858), [Bender et al 2021](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922), (Weidinger et al 2021)[https://arxiv.org/abs/2112.04359]
+**Reference(s)**: [Banko et al 2020](https://aclanthology.org/2020.alw-1.16/), [Yin and Zubiaga, 2021](https://peerj.com/articles/cs-598/), [Ganguli et al 2022](https://arxiv.org/abs/2209.07858), [Bender et al 2021](https://dl.acm.org/doi/pdf/10.1145/3442188.3445922), [Weidinger et al 2021](https://arxiv.org/abs/2112.04359)
 
 **Actions required for harm to present**: Prompts designed with questions about personal information.
 

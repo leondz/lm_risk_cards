@@ -6,7 +6,7 @@
 
 **Harm types**: Reader-Legal, Publisher-Legal
 
-**Reference(s)**: [Banko et al 2020](https://aclanthology.org/2020.alw-1.16/), (Weidinger et al 2021)[https://arxiv.org/abs/2112.04359]
+**Reference(s)**: [Banko et al 2020](https://aclanthology.org/2020.alw-1.16/), [Weidinger et al 2021](https://arxiv.org/abs/2112.04359)
 
 **Actions required for harm to present**: Questions about illicit activities.
 

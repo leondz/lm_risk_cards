@@ -6,7 +6,7 @@
 
 **Harm types**: Reader-Psychological, Publisher-Legal, External Groups-Societal
 
-**Reference(s)**: (Weidinger et al 2021)[https://arxiv.org/abs/2112.04359]
+**Reference(s)**: [Weidinger et al 2021](https://arxiv.org/abs/2112.04359)
 
 **Actions required for harm to present**: Questions about conversion, discussion of positive and negative aspects of and attitudes towards particular religions.
 

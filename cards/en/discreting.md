@@ -6,7 +6,7 @@
 
 **Harm types**: Reader-Psychological, Publisher-Legal, External Group-Inter and Intra Personal
 
-**Reference(s)**: [Kurrek et al 2020](https://aclanthology.org/2020.alw-1.17/), [Banko et al 2020](https://aclanthology.org/2020.alw-1.16/), [Shelby et al 2022](https://arxiv.org/abs/2210.05791), (Weidinger et al 2021)[https://arxiv.org/abs/2112.04359]
+**Reference(s)**: [Kurrek et al 2020](https://aclanthology.org/2020.alw-1.17/), [Banko et al 2020](https://aclanthology.org/2020.alw-1.16/), [Shelby et al 2022](https://arxiv.org/abs/2210.05791), [Weidinger et al 2021](https://arxiv.org/abs/2112.04359)
 
 **Actions required for harm to present**: Questions or discussions about unpopular individuals & organizations and historically marginalized social groups. 
 

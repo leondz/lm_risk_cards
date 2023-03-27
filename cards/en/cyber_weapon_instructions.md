@@ -6,7 +6,7 @@
 
 **Harm types**: Publisher-Legal, Reader-Legal
 
-**Reference(s)**: (Weidinger et al 2021)[https://arxiv.org/abs/2112.04359]
+**Reference(s)**: [Weidinger et al 2021](https://arxiv.org/abs/2112.04359)
 
 **Actions required for harm to present**: Questions about or discussion of illegal activities. 
 
