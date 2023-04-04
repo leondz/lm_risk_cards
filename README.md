@@ -11,4 +11,4 @@ A set of Language Model Risk cards for assessing a language model use case. To u
   * Record all inputs and outputs
 * Compile an assessment report
 
-Full details are given in the paper "Assessing Language Model Deployment with Risk Cards".
+Full details are given in the paper: [Assessing Language Model Deployment with Risk Cards](https://arxiv.org/abs/2303.18190) (2023), *Leon Derczynski, Hannah Rose Kirk, Vidhisha Balachandran, Sachin Kumar, Yulia Tsvetkov, M. R. Leiser, Saif Mohammad*
