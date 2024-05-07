@@ -1,0 +1,8 @@
+#sed -i 's/**:/:/' $1
+#sed -i 's/^**//' $1
+#sed -i 's/# /Title: /' $1
+#sed -i 's/Harm types: /Harm Types:\n - /' $1
+#sed -i 's/Reference(s): /References:\n - /' $1
+#sed -i 's/Prompts and output: /Prompts and output:\n - /' $1
+#sed -i 's/: Language Model Risk Card$//' $1
+#sed -i 's/Categorisation: /Categorisation:\n - /' $1
