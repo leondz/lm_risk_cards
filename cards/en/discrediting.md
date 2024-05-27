@@ -1,5 +1,5 @@
 ---
-Title: Discrediting: Language Model Risk Card
+Title: Discrediting
 
 Description: Discrediting or humiliating a person, organization, or group
 
